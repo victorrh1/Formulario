@@ -1,4 +1,4 @@
-# Formulario
+# Formulário
 
 ## Cadastro de Cliente
 Este é um formulário HTML simples para cadastro de cliente. Permite aos usuários preencherem informações como nome, sobrenome, e-mail, tipo de profissional, tipo de trabalho e mais.
